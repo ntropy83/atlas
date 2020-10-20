@@ -5,7 +5,7 @@ pandora - OpenGL Testing Grounds
 
 ## Clone
 ```
-git clone --recursive https://github.com/enthalpie/pandora.git
+git clone --recursive https://github.com/ntropy83/pandora.git
 ```
 ## Build
 ### Linux
